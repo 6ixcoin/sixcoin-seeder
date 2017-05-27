@@ -1,0 +1,1 @@
+# sixcoin-seeder
